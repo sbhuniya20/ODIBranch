@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdiGitTagInfo>
+   <ParamMap>
+      <param value="/Work Repository/Models/HR/MOD_HR.xml"/>
+      <param value="/Master Repository/Languages/LANG_SQL.xml"/>
+      <param value="/Work Repository/Models/HR/Global/SMOD_Global.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Logical Architecture/LSC_LS_HR.xml"/>
+      <param value="/Work Repository/Projects/Product/First_Folder/Mappings/MAP_New_Mapping.xml"/>
+      <param value="/Work Repository/Models/HR/Global/TAB_REGIONS.xml"/>
+      <param value="/Work Repository/Models/HR/Global/TAB_EMPLOYEES_TARGET.xml"/>
+      <param value="/Work Repository/Models/HR/Global/TAB_JOBS.xml"/>
+      <param value="/Work Repository/Models/HR/Global/TAB_DEPARTMENTS.xml"/>
+      <param value="/Work Repository/Models/HR/Global/TAB_COUNTRIES.xml"/>
+      <param value="/Work Repository/Models/HR/Global/TAB_EMPLOYEES.xml"/>
+      <param value="/Work Repository/Models/HR/Global/TAB_LOCATIONS.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/HR/CONN_HR.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/HR/PSC_HR_HR.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Global.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/TECH_Oracle.xml"/>
+      <param value="/Work Repository/Projects/Product/First_Folder/FOLD_First_Folder.xml"/>
+      <param value="/Work Repository/Projects/Product/PROJ_Product.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Development.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Production.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Test.xml"/>
+   </ParamMap>
+</OdiGitTagInfo>
